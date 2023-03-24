@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "riq5TJIzwhKtwWj/JVeomB1Zvhme11JZCOw7x+/lcHXAF2tZZDK/m5zd7IpXWXgfzKGqfrme56x1pFTD697SLQ==",
+  "success": true,
+  "projectFilePath": "/home/bes/Documents/uni/sem2/prog2/chess/chess.csproj",
+  "expectedPackageFiles": [
+    "/home/bes/.nuget/packages/atksharp/3.24.24.38/atksharp.3.24.24.38.nupkg.sha512",
+    "/home/bes/.nuget/packages/cairosharp/3.24.24.38/cairosharp.3.24.24.38.nupkg.sha512",
+    "/home/bes/.nuget/packages/gdksharp/3.24.24.38/gdksharp.3.24.24.38.nupkg.sha512",
+    "/home/bes/.nuget/packages/giosharp/3.24.24.38/giosharp.3.24.24.38.nupkg.sha512",
+    "/home/bes/.nuget/packages/glibsharp/3.24.24.38/glibsharp.3.24.24.38.nupkg.sha512",
+    "/home/bes/.nuget/packages/gtksharp/3.24.24.38/gtksharp.3.24.24.38.nupkg.sha512",
+    "/home/bes/.nuget/packages/pangosharp/3.24.24.38/pangosharp.3.24.24.38.nupkg.sha512"
+  ],
+  "logs": []
+}
